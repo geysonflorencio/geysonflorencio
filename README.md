@@ -1,8 +1,7 @@
-👋 Olá, sou @geysonflorencio
+Médico por formação, desenvolvedor Fullstack por paixão. 🩺💻
 
-👀 Estou interessado em tecnologias de saúde, inteligência artificial e desenvolvimento de aplicativos inovadores para a área médica.
-🌱 Atualmente estou aprendendo desenvolvimento Fullstack e me aprofundando em Inteligência Artificial pela UTFPR.
-💞️ Estou procurando colaborar em projetos que unam tecnologia e medicina, especialmente nas áreas de terapia intensiva e análise de dados clínicos.
-📫 Como entrar em contato comigo: geysonflorencio@alunos.utfpr.edu.br
-😄 Pronomes: Ele/Dele
-⚡ Curiosidade: Além de trabalhar ha mais de 8 anos em terapia intensiva, já coordenei emergências hospitalares, cursei Farmácia e Ciência da Computação e desenvolvo aplicativos para auxiliar no manejo de pacientes críticos e dialíticos.
+Atuo na interseção entre saúde e tecnologia, criando soluções que unem raciocínio clínico, pensamento analítico e engenharia de software. Tenho experiência no desenvolvimento de aplicações web completas — do backend à experiência do usuário — sempre buscando performance, escalabilidade e código limpo.
+
+Interesses atuais incluem healthtech, automação, produtos digitais e arquitetura de sistemas. Gosto de transformar problemas complexos em soluções práticas e bem estruturadas.
+
+🚀 Sempre aprendendo. Sempre construindo.
