@@ -1,51 +1,65 @@
-# Olá! Eu sou Geyson Florêncio 👋
+<h1 align="center">Dr. Geyson Florêncio</h1>
 
-### 🩺 Emergency Physician • 💻 Full Stack Developer • 🤖 Clinical AI Engineer
+<p align="center">
+Emergency & Critical Care Physician • Clinical AI Engineer • Full Stack Developer
+</p>
 
-Construo soluções que unem Medicina, Inteligência Artificial e Engenharia de Software.
-
-Sou médico com quase 10 anos de experiência em Terapia Intensiva e Emergência e desenvolvedor Full Stack por paixão. Atualmente lidero o desenvolvimento de plataformas que utilizam IA para melhorar a educação médica, o suporte à decisão clínica e a gestão hospitalar.
-
----
-
-## 🚀 Atualmente trabalhando em
-
-### 🧠 Patient 2.0
-Simulador clínico baseado em IA para treinamento de estudantes, internos e residentes.
-
-- Conversação por voz
-- Exame físico virtual
-- Solicitação de exames laboratoriais e imagem
-- Feedback automatizado
-- Casos clínicos dinâmicos
+<p align="center">
+Building intelligent software for healthcare.
+</p>
 
 ---
 
-### ❤️ VITAL
+## About
 
-Sistema inteligente para gestão de Times de Resposta Rápida (TRR).
+I'm an Emergency and Intensive Care physician with nearly 10 years of clinical experience and a Full Stack Developer focused on building AI-powered healthcare solutions.
 
-- Escore MEWS
-- Alertas em tempo real
-- Dashboard
-- Indicadores
-- Auditoria
-- Gestão hospitalar
+As Founder of **Sinapse HealthTech**, I work at the intersection of medicine, artificial intelligence and software engineering, creating products that improve clinical decision-making, medical education and hospital operations.
 
 ---
 
-### 🏥 Sinapse HealthTech
+## Current Projects
 
-Startup focada em desenvolver soluções inteligentes para hospitais e educação médica.
+### Patient 2.0
+
+An AI-powered virtual patient simulator designed for medical students, residents and healthcare professionals.
+
+**Key features**
+
+- Voice-based interaction
+- Virtual physical examination
+- Laboratory and imaging simulation
+- Dynamic clinical cases
+- Automated feedback
 
 ---
 
-## 💻 Stack
+### VITAL
+
+Rapid Response Team Management Platform.
+
+**Key features**
+
+- MEWS score
+- Real-time notifications
+- Clinical dashboards
+- Hospital quality indicators
+- Audit trail
+
+---
+
+## Technology
+
+**Languages**
+
+- TypeScript
+- JavaScript
+- Python
+- SQL
 
 **Frontend**
 
 - React
-- TypeScript
 - Vite
 - Tailwind CSS
 
@@ -53,56 +67,46 @@ Startup focada em desenvolver soluções inteligentes para hospitais e educaçã
 
 - Node.js
 - Express
-- Python
 - Flask
 
-**Banco de Dados**
+**Database**
 
 - PostgreSQL
 - Supabase
 
-**IA**
+**Artificial Intelligence**
 
 - OpenAI
-- Ollama
 - LangChain
+- Ollama
 - MCP
 - ElevenLabs
 
-**Cloud**
+**Cloud & DevOps**
 
+- GitHub Actions
+- Docker
 - Vercel
 - Render
-- GitHub Actions
 
 ---
 
-## 📚 Interesses
+## Areas of Interest
 
 - Artificial Intelligence
 - Clinical Decision Support
 - Medical Education
-- Healthcare Innovation
+- Digital Health
 - System Architecture
-- Full Stack Development
+- Healthcare Innovation
 
 ---
 
-## 📈 Atualmente estudando
+## Connect
 
-- Multi-Agent Systems
-- AI Engineering
-- LLM Applications
-- Healthcare Automation
+- LinkedIn: www.linkedin.com/in/geysonflorencio
+- Company: Sinapse HealthTech
 
 ---
 
-## 📫 Vamos conversar?
-
-- 💼 LinkedIn
-- 🌐 Sinapse HealthTech
-- 📧 Entre em contato
-
----
-
-> *"Technology should amplify clinical reasoning, not replace it."*
+> *Building technology that enhances clinical reasoning.*
